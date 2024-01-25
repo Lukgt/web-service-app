@@ -1,0 +1,16 @@
+{
+    "users": [
+      {
+        "nome": "Lucas",
+        "idade": "26",
+        "livro": "Avatar",
+        "id": 1
+      },
+      {
+        "nome": "tiago",
+        "idade": "32",
+        "livro": "Percy jackson",
+        "id": 2
+      }
+    ]
+  }
